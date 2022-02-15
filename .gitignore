@@ -1,0 +1,10 @@
+**/.vscode
+**/.ipynb_checkpoints
+**/.DS_Store
+**/.__MACOSX
+**/__pycache__
+
+# temporary files
+*temp*
+*tmp*
+**/test

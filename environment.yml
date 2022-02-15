@@ -1,0 +1,18 @@
+# Create environment with `conda env create -f environment.yml`
+# Activate environment with `conda activate pmr`
+# Update environment with `conda env update --file environment.yml`
+# Remove environment with `conda remove --name pmr --all`
+
+name: pmr
+channels:
+    - conda-forge
+    - anaconda
+dependencies:
+    - python=3.8
+    - numpy=1.21.4
+    - scipy
+    - pip
+    - pip:
+        - jdc
+    - notebook
+    - ipywidgets
