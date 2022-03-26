@@ -6,7 +6,8 @@ The tutorial consists of three parts:
 
 1. [HMM basics](<./HMM basics.ipynb>)
 2. [HMM inference](<./HMM inference.ipynb>)
-3. HMM learning (to be released)
+3. [HMM learning (with coding exercises)](<./HMM learning with code exercises.ipynb>), this tutorial contains a few code snippets for you to fill in
+    * A notebook with complete code is also provided [here](<./HMM learning complete.ipynb>)
 
 ## Environment setup
 
