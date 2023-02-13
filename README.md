@@ -1,6 +1,6 @@
-# PMR computer tutorials on HMMs (2021-2022)
+# PMR computer tutorials on HMMs (2022-2023)
 
-This is a repository for computer tutorials of [Probabilistic Modelling and Reasoning (2021/2022)](http://www.inf.ed.ac.uk/teaching/courses/pmr) - a University of Edinburgh master's course.
+This is a repository for computer tutorials of [Probabilistic Modelling and Reasoning (2022/2023)](http://www.inf.ed.ac.uk/teaching/courses/pmr) - a University of Edinburgh master's course.
 
 The tutorial consists of three parts:
 
@@ -38,4 +38,4 @@ Note that the Colab notebook environment should already include all the required
 
 ## Attributions
 
-The tutorials in this repository were authored by [Yao Fu](https://github.com/FranxYao/) and [Shangmin Guo](https://github.com/Shawn-Guo-CN) in discussion with [Michael Gutmann](https://michaelgutmann.github.io/), and edited by [Vaidotas Šimkus](https://github.com/vsimkus).
+The tutorials in this repository were authored by [Yao Fu](https://github.com/FranxYao/) and [Shangmin Guo](https://github.com/Shawn-Guo-CN) in discussion with [Michael Gutmann](https://michaelgutmann.github.io/), and edited by [Vaidotas Šimkus](https://github.com/vsimkus) and [Chris Williams](https://homepages.inf.ed.ac.uk/ckiw/).
