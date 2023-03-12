@@ -5,7 +5,8 @@ This is a repository for computer tutorials of [Probabilistic Modelling and Reas
 The tutorial consists of three parts:
 
 1. [HMM basics](<./HMM basics.ipynb>)
-2. [HMM inference](<./HMM inference.ipynb>)
+2. [HMM inference](<./HMM inference with questions.ipynb>), this tutorial contains a few questions for you to think about.
+    * A notebook with the solutions is also provided [here](<./HMM inference complete.ipynb>)
 3. [HMM learning (with coding exercises)](<./HMM learning with code exercises.ipynb>), this tutorial contains a few code snippets for you to fill in
     * A notebook with complete code is also provided [here](<./HMM learning complete.ipynb>)
 
