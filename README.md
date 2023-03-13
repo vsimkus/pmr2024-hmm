@@ -20,7 +20,7 @@ You'll need to open terminal on your machine and then follow the below instructi
 
 * Install git ([linux](https://git-scm.com/download/linux), [macOS](https://git-scm.com/download/mac), [windows](https://git-scm.com/download/win)) to access the repository if you don't have it already
 * Clone the git repository on your machine by running `git clone` in the terminal (you can find a guide [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
-* Once you've cloned the repository, step into the directory by entering `cd pmr2022-hmm` into the terminal
+* Once you've cloned the repository, step into the directory by entering `cd pmr2023-hmm` into the terminal
 * If you don’t already have it also install miniconda  ([linux](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html), [macOS](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html), [windows](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html)), which will allow you to manage all python dependencies per project
 * You can now create the `pmr` conda environment by typing `conda env create -f environment.yml`. This step may take a while to complete since it has to download large binaries and you should better be connected to a good internet connection.
 
@@ -33,7 +33,7 @@ Once you have the environment prepared you can start your jupyter notebook
 
 ### Google Colab
 
-You can also access and run the notebooks on Google Colab directly via this link <http://colab.research.google.com/github/vsimkus/pmr2022-hmm>. More details can be found at <https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=WzIRIt9d2huC>.
+You can also access and run the notebooks on Google Colab directly via this link <http://colab.research.google.com/github/vsimkus/pmr2023-hmm>. More details can be found at <https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=WzIRIt9d2huC>.
 
 Note that the Colab notebook environment should already include all the required dependencies, however, the versions may differ, hence the results may differ slightly from the provided solutions but that should not be a problem for this tutorial.
 
